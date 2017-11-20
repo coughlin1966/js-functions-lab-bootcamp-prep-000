@@ -2,3 +2,5 @@
 happyHolidays() {
   return "Happy Holidays"
 }
+
+happyHolidays()
